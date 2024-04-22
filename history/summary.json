@@ -4,7 +4,7 @@
     "url": "https://factsmission.com",
     "icon": "https://icons.duckduckgo.com/ip3/factsmission.com.ico",
     "slug": "facts-mission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 828,
     "timeYear": 820,
     "dailyMinutesDown": {
+      "2024-04-22": 0,
       "2023-10-11": 51,
       "2023-08-22": 42
     }
