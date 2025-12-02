@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/factsmission.com.ico",
     "slug": "facts-mission",
     "status": "up",
-    "uptime": "94.83%",
+    "uptime": "94.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.29%",
+    "uptimeYear": "96.57%",
     "time": 801,
-    "timeDay": 829,
-    "timeWeek": 727,
-    "timeMonth": 671,
+    "timeDay": 1022,
+    "timeWeek": 796,
+    "timeMonth": 685,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2025-03-07": 573,
@@ -28,8 +28,7 @@
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
-      "2024-12-03": 1440,
-      "2024-12-02": 1440
+      "2024-12-03": 1440
     }
   }
 ]
