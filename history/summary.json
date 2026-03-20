@@ -6,17 +6,15 @@
     "slug": "facts-mission",
     "status": "up",
     "uptime": "95.42%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 769,
-    "timeDay": 602,
-    "timeWeek": 617,
-    "timeMonth": 663,
-    "timeYear": 695,
-    "dailyMinutesDown": {
-      "2026-03-19": 12
-    }
+    "time": 768,
+    "timeDay": 560,
+    "timeWeek": 630,
+    "timeMonth": 657,
+    "timeYear": 694,
+    "dailyMinutesDown": {}
   }
 ]
