@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/factsmission.com.ico",
     "slug": "facts-mission",
     "status": "up",
-    "uptime": "95.46%",
+    "uptime": "95.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 767,
-    "timeDay": 583,
-    "timeWeek": 715,
-    "timeMonth": 654,
-    "timeYear": 694,
+    "timeDay": 751,
+    "timeWeek": 705,
+    "timeMonth": 657,
+    "timeYear": 693,
     "dailyMinutesDown": {}
   }
 ]
